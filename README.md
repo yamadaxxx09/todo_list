@@ -25,4 +25,4 @@ React, Express
 - The frontend will call the backend API (http://localhost:5000/api/todos).
 
 ## Screenshots
-![Screenshot](frontend/src/Img/screenshot.png)
+![Screenshot](frontend/src/Img/Screenshot.png)
